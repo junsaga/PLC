@@ -14,5 +14,6 @@ Y50 커피 잔량 알림 램프
 Y51 커피 공급 밸브
 Y53 물 보충 밸브
 
-![image](https://github.com/user-attachments/assets/a1d14fc9-4ee5-470f-a035-e215787d254b width=300)
+<img src="https://github.com/user-attachments/assets/a1d14fc9-4ee5-470f-a035-e215787d254b" style="width:200px;">
+
 
